@@ -1,0 +1,30 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== STM32CubeIDE / build outputs =====
+**/Debug/
+**/Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.cyclo
+
+# ===== IDE =====
+.vscode/
+.idea/
