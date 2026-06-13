@@ -327,18 +327,6 @@ Possible next steps for the project:
 
 ---
 
-## License / Usage Note
-
-This repository is currently presented as a project/documentation codebase.
-Add your preferred license here if you plan to publish or distribute it publicly.
-
-Examples:
-- MIT License
-- Apache 2.0
-- GPLv3
-
----
-
 ## Contact / Project Context
 
 This project was developed as a combined embedded-control and desktop-control system for a 3-axis gantry platform using:
